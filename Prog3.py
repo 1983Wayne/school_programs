@@ -5,7 +5,7 @@
 
 
 border_amount = 30
-famous_ladies = ["madonna", "cher", "kerrigan"]
+famous_ladies = "madonna cher kerrigan".split()
 name_first = "Wayne"
 name_last = "Caissie"
 password = "hello"
