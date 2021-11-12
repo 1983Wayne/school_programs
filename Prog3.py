@@ -24,7 +24,7 @@ can demonstrate that they know the super duper secret password.""")
 
 def second_half():
     user_name = input("What is your first name? >>> ")                                  #Ask for the user's name
-    if user_name.lower() in famous_ladies:                                                      #Check if an esteemed lady, if so ask
+    if user_name.lower() in famous_ladies:                                              #Check if an esteemed lady, if so ask
         print("CAN I GET YOUR AUTOGRAPH MA'AM!?")                                       #For their autograph                                            
     elif user_name.lower() == name_first.lower():                                       #If user's first name is same as project                                   
         print("What a great name!")                                                     #maker, compliment them
