@@ -4,7 +4,7 @@
 # Wayne Caissie
 
 border_amount = 30
-program_title = "Math Functions"
+program_title = "Using Input project"
 
 def main():
     """ The purpose of this program is to demonstrate Python's ability to handle user input
