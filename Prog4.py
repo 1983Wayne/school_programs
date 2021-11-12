@@ -8,7 +8,7 @@ program_title = "Areas and perimeters project"
 
 def main():
     """ The purpose of this program is to use functions in a user friendly way
-        to create a text based interface solving whole number area and perimeter problems."""
+        to create a text based interface solving natural number area and perimeter problems."""
 
     student_info()
     
