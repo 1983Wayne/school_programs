@@ -1,4 +1,4 @@
-# Math Functions project for Athabasca University COMP 200
+# Math Functions project
 # 11 November 2021
 # Version 1.1
 # Wayne Caissie
